@@ -1,0 +1,57 @@
+.main-div{
+    display :flex;
+}
+.left-maindiv{
+    flex :1;
+    background-color:rgba(0, 0, 0, 0.815);
+    color: white;
+    width:30%;
+}
+.right-maindiv{
+    flex :2;
+    width:70%;
+    padding-left: 10px;
+}
+
+.upper-right{
+    padding-top: 40px;
+
+}
+.lower-right{
+    padding-left: 50px;
+}
+
+.photo{
+    height: 100px;
+}
+.education-reference{
+
+    padding:30px;
+    max-height: 30%;
+    font-size: small;
+}
+.contacts{
+    padding:30px;
+   
+    font-size: small;
+  
+}
+
+
+
+.jobposition1{
+    display:flex;
+}
+.year{
+    padding-top: 20px;
+    flex:1;
+}
+.post{
+    flex:2;
+}
+.skill-list{
+    list-style-type: none;  
+}
+.name-title{
+    background-color:yellow;
+}
